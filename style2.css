@@ -1,0 +1,43 @@
+h4 {
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+    .module-subtitle {
+        font: 400 16px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        color: #a7a9ac;
+        margin: 0;
+        text-align: center;
+    }
+
+    .module {
+        position: relative;
+        background: grey;
+        padding: 120px 0;
+    }
+    
+
+    
+    .menu {
+        border-bottom: 1px dotted #DDD;
+        padding: 10px 0 10px;
+        margin: 10px 0 20px;
+    }
+
+    
+    .menu-title,
+    .menu-price {
+        font-size: 16px;
+        margin: 0;
+    }
+    
+    .menu-detail {
+        font-size: 14px;
+    }
+    
+    .menu-price-detail {
+        position: relative;
+        text-align: right;
+    }
+    
